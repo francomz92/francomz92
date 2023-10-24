@@ -5,7 +5,7 @@
 💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software.\
 🎓 &nbsp;Actualmente estoy estudiando Programación en la Universidad Tecnológica Nacional de San Rafael.\
 🌱 &nbsp;Estoy en camino de aprender más sobre Desarrollo Web y Diseño de Sistemas.\
-💬 &nbsp;Siéntete libre de comunicarse conmigo para obtener consultoría y voluntariado pro bono, o simplemente para una discusión interesante.\
+💬 &nbsp;Siéntete libre de comunicarte conmigo para obtener consultoría, o simplemente para una discusión interesante.\
 📨 &nbsp;Puedes enviarme un correo electrónico a franco.mz92@hotmail.com! Intentaré responder tan pronto como pueda.
 
 
