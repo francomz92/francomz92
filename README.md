@@ -1,17 +1,18 @@
-## &nbsp;Hey there! I'm Franco 👋
+## &nbsp;Hola! Yo soy Franco 👋
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Sobre mi
 
 💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software.\
-🎓 &nbsp;I'm currently studying Programing at the National Technological University of San Rafael.\
+🎓 &nbsp;Actualmente estoy estudiando Programación en la Universidad Tecnológica Nacional de San Rafael.\
 🌱 &nbsp;Estoy en camino de aprender más sobre Desarrollo Web y Diseño de Sistemas.\
 💬 &nbsp;Siéntase libre de comunicarse conmigo para obtener consultoría y voluntariado pro bono, o simplemente para una discusión interesante.\
 📨 &nbsp;Puedes enviarme un correo electrónico a franco.mz92@hotmail.com! Intentaré responder tan pronto como pueda.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
+<div align="center">
+  
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -28,4 +29,20 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 
+</div>
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/francomz92">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=francomz92&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=francomz92&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### 🤝🏻 &nbsp;Contáctame
+
+<p align="center">
+<a href="https://www.linkedin.com/in/franco-sebastian-mz"><img src="https://img.shields.io/badge/-Franco%20Sebastian%20Muñoz-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:franco.mz92@hotmail.com"><img src="https://img.shields.io/badge/-franco.mz92@hotmail.com-D14836?style=flat&logo=microsoftoutlook&logoColor=white"/></a>
+</p>
