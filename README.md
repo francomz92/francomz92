@@ -1,5 +1,7 @@
 ## &nbsp;Hola! Yo soy Franco 👋
 
+<br>
+
 ### 👨🏻‍💻 &nbsp;Sobre mi
 
 💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software.\
@@ -8,6 +10,7 @@
 💬 &nbsp;Siéntete libre de comunicarte conmigo para obtener consultoría, o simplemente para una discusión interesante.\
 📨 &nbsp;Puedes enviarme un correo electrónico a franco.mz92@hotmail.com! Intentaré responder tan pronto como pueda.
 
+<br>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -31,6 +34,8 @@
 
 </div>
 
+<br>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -40,9 +45,13 @@
 </a>
 </p>
 
+<br>
+
 ### 🤝🏻 &nbsp;Contáctame
 
 <p align="center">
 <a href="https://www.linkedin.com/in/franco-sebastian-mz"><img src="https://img.shields.io/badge/-Franco%20Sebastian%20Muñoz-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:franco.mz92@hotmail.com"><img src="https://img.shields.io/badge/-franco.mz92@hotmail.com-D14836?style=flat&logo=microsoftoutlook&logoColor=white"/></a>
 </p>
+
+<br>
