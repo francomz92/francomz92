@@ -5,7 +5,6 @@
 ### 👨🏻‍💻 &nbsp;Sobre mi
 
 💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software.\
-🎓 &nbsp;Actualmente estoy estudiando Programación en la Universidad Tecnológica Nacional de San Rafael.\
 🌱 &nbsp;Estoy en camino de aprender más sobre Desarrollo Web y Diseño de Sistemas.\
 💬 &nbsp;Siéntete libre de comunicarte conmigo para obtener consultoría, o simplemente para una discusión interesante.
 
